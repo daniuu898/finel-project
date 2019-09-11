@@ -1,0 +1,67 @@
+.header{
+	font-family: 'Modak', cursive;
+}
+#icon{
+	width:30px;
+	height: 20px;
+}
+.nav{
+	background-color: black; 
+}
+.nav-link {
+color: white; 
+}
+
+
+.slide{
+margin: 50px;
+padding: 40px;
+	
+}
+
+
+#carouselExampleIndicators{
+
+	width: 500px;
+	height: 500px;
+	
+}
+
+.main{
+	margin: 10px 300px;
+padding: 10px 10px;
+
+}
+h1{
+font-family: 'Chilanka', cursive;
+margin: 20px 30px;
+
+}
+strong{
+	font-family: 'Chilanka', cursive;
+}
+#main-2:hover{
+	display: inline-block;
+
+}
+
+.end{
+	display:flex;
+	
+}
+.flex-column-1{
+	columns: 100em;
+column-span: 10em;
+}
+.flex-column-2{
+	
+	columns: 100em  ;
+	column-span: 10em;
+}
+span{
+	margin: 80px;
+	padding: 150px;
+	width: 200px;
+height: 100px;
+}
+
